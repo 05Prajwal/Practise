@@ -1,4 +1,5 @@
 this is new file
 this is third line
+this is conflict
 this is for practise
 this isnew line
